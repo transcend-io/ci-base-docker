@@ -1,5 +1,5 @@
 # Image for building
-FROM transcend-io:ci-base
+FROM transcendio/ci-base
 
 # Install docker https://circleci.com/docs/2.0/building-docker-images/
 ENV VER "19.03.1"
